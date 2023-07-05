@@ -1,0 +1,12 @@
+{"bookname": "piramide da sabedoria",
+"publicado":"2019",
+"avaliação":"5.0",
+"escritor":"breetMcRkenn",
+"descrição":"este é um belo livro",
+"image":"https://i.ibb.co/yyJ3tKs/Bookload.png"}§
+{"bookname": "jesse Lyma hulrbut",
+"publicado":"2018",
+"avaliação":"4.0",
+"escritor":"Jesse",
+"descrição":"este é um belo livro!!!"
+"image":"https://i.ibb.co/pr4QM3s/Bookload-1.png"}§
